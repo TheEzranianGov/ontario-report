@@ -6,4 +6,4 @@
 
 The quick brown fox jumped over the lazy dog
 
-
+This analysis was performed during class while learning R.
